@@ -1,1 +1,1 @@
-print("Hola mundo Ejercicio 2 Version 1")
+print("Hola mundo Ejercicio 2 Version 2")
